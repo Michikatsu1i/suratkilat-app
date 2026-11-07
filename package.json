@@ -1,0 +1,14 @@
+{
+  "name": "suratkilat-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Pembuat Surat Otomatis & Arsip Digital",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ejs": "^3.1.10",
+    "sqlite3": "^5.1.7"
+  }
+}
